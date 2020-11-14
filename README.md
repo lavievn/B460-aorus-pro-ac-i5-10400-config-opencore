@@ -8,10 +8,10 @@
 <br>Intel ethernet V225-v Gbe</br>
 <br>onboard iGPU Intel HD630</br>
 <br>___________________________________</br>
-LAN, wifi and bluetooth is working
-purple screen on HDMI port fixxed
-iGpu is working
-imess, facetime is working
-no problems with sleep/wake
-dual monitor supported
-USB 3.1 supported
+<br>LAN, wifi and bluetooth is working</br>
+<br>purple screen on HDMI port fixxed</br>
+<br>iGpu is working</br>
+<br>imess, facetime is working</br>
+<br>no problems with sleep/wake</br>
+<br>dual monitor supported</br>
+<br>USB 3.1 supported</br>
